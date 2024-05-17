@@ -1,0 +1,12 @@
+[14-Mar-2024 04:03:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/ujianori/aidsindonesia.or.id/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/SimplePie/Core.php on line 53
+[20-Mar-2024 21:07:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/ujianori/aidsindonesia.or.id/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/SimplePie/Core.php on line 53
+[27-Mar-2024 01:52:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/ujianori/aidsindonesia.or.id/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/SimplePie/Core.php on line 53

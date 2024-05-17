@@ -1,0 +1,239 @@
+{
+    "version": "0.4",
+    "title": "MedisCare V1 &#8211; Header",
+    "type": "header",
+    "metadata": {
+        "template_type": "section-header",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "header",
+        "elementor_pro_conditions": [
+            "include\/general"
+        ],
+        "additional_template_information": [
+            "This is a \"Header\" template for Elementor Pro.",
+            "This template will display on: Entire Site."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "2691cdaf",
+            "settings": {
+                "content_position": "middle",
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "structure": "40",
+                "box_shadow_box_shadow_type": "yes",
+                "box_shadow_box_shadow": {
+                    "horizontal": 0,
+                    "vertical": 10,
+                    "blur": 20,
+                    "spread": 0,
+                    "color": "rgba(0, 0, 0, 0.05)"
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                },
+                "sticky": "top",
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=a291686"
+                }
+            },
+            "elements": [
+                {
+                    "id": "559f9d87",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 15,
+                        "_inline_size_tablet": 25,
+                        "_inline_size_mobile": 80
+                    },
+                    "elements": [
+                        {
+                            "id": "724b95b2",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/demo.moxcreative.com\/mediscare\/wp-content\/uploads\/sites\/51\/2021\/07\/Logo-MedisCare.png",
+                                    "id": 42
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "",
+                                    "height": "45"
+                                },
+                                "link_to": "custom",
+                                "__dynamic__": {
+                                    "link": "[elementor-tag id=\"05b41b4\" name=\"site-url\" settings=\"%7B%7D\"]"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "30b68dff",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 60,
+                        "_inline_size_tablet": 38,
+                        "_inline_size_mobile": 20
+                    },
+                    "elements": [
+                        {
+                            "id": "43365d45",
+                            "settings": {
+                                "align_items": "right",
+                                "pointer": "none",
+                                "indicator": "chevron",
+                                "padding_horizontal_menu_item": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "padding_vertical_menu_item": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "menu_space_between": {
+                                    "unit": "px",
+                                    "size": 36,
+                                    "sizes": []
+                                },
+                                "dropdown_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "dropdown_box_shadow_box_shadow_type": "yes",
+                                "dropdown_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 10,
+                                    "blur": 20,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "__globals__": {
+                                    "color_menu_item": "globals\/colors?id=dea41e4",
+                                    "color_menu_item_hover": "globals\/colors?id=a185853",
+                                    "color_menu_item_active": "globals\/colors?id=a185853",
+                                    "menu_typography_typography": "globals\/typography?id=520c191",
+                                    "color_dropdown_item": "globals\/colors?id=dea41e4",
+                                    "background_color_dropdown_item": "globals\/colors?id=a291686",
+                                    "dropdown_typography_typography": "globals\/typography?id=520c191",
+                                    "color_dropdown_item_hover": "globals\/colors?id=a185853",
+                                    "background_color_dropdown_item_hover": "globals\/colors?id=a291686",
+                                    "color_dropdown_item_active": "globals\/colors?id=a185853",
+                                    "background_color_dropdown_item_active": "globals\/colors?id=a291686"
+                                },
+                                "full_width": "stretch",
+                                "toggle_align": "right",
+                                "toggle_size_tablet": {
+                                    "unit": "px",
+                                    "size": 26,
+                                    "sizes": []
+                                },
+                                "toggle_size_mobile": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "nav-menu",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "4b17414f",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 7,
+                        "hide_mobile": "hidden-phone"
+                    },
+                    "elements": [
+                        {
+                            "id": "e86f4c7",
+                            "settings": {
+                                "skin": "full_screen",
+                                "placeholder": "Search...",
+                                "button_text": "Search",
+                                "toggle_align": "right",
+                                "toggle_size": {
+                                    "unit": "px",
+                                    "size": 36,
+                                    "sizes": []
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "toggle_background_color": "globals\/colors?id=a291686",
+                                    "toggle_color": "globals\/colors?id=dea41e4",
+                                    "toggle_color_hover": "globals\/colors?id=a185853",
+                                    "input_text_color": "globals\/colors?id=dea41e4",
+                                    "input_text_color_focus": "globals\/colors?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "search-form",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "64d45c65",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 18,
+                        "_inline_size_tablet": 30,
+                        "hide_mobile": "hidden-phone"
+                    },
+                    "elements": [
+                        {
+                            "id": "3587aba9",
+                            "settings": {
+                                "text": "Book  Appointment",
+                                "align": "right",
+                                "size": "md"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

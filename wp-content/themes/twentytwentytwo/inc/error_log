@@ -1,0 +1,8 @@
+[20-Mar-2024 21:10:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ujianori/aidsindonesia.or.id/wp-content/themes/twentytwentytwo/inc/block-patterns.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-content/themes/twentytwentytwo/inc/block-patterns.php on line 135
+[27-Mar-2024 01:56:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ujianori/aidsindonesia.or.id/wp-content/themes/twentytwentytwo/inc/block-patterns.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-content/themes/twentytwentytwo/inc/block-patterns.php on line 135

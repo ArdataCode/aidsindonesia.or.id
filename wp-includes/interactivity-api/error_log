@@ -1,0 +1,16 @@
+[20-Apr-2024 02:59:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/ujianori/aidsindonesia.or.id/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[20-Apr-2024 03:00:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/ujianori/aidsindonesia.or.id/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[20-Apr-2024 03:00:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ujianori/aidsindonesia.or.id/wp-includes/interactivity-api/interactivity-api.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/interactivity-api/interactivity-api.php on line 73
+[20-Apr-2024 03:00:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ujianori/aidsindonesia.or.id/wp-includes/interactivity-api/interactivity-api.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/interactivity-api/interactivity-api.php on line 73

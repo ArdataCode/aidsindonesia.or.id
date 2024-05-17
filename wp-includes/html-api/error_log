@@ -1,0 +1,12 @@
+[14-Mar-2024 04:23:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/ujianori/aidsindonesia.or.id/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/html-api/class-wp-html-processor.php on line 131
+[20-Apr-2024 02:59:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/ujianori/aidsindonesia.or.id/wp-includes/html-api/class-wp-html-processor.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/html-api/class-wp-html-processor.php on line 139
+[20-Apr-2024 02:59:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/ujianori/aidsindonesia.or.id/wp-includes/html-api/class-wp-html-processor.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/html-api/class-wp-html-processor.php on line 139

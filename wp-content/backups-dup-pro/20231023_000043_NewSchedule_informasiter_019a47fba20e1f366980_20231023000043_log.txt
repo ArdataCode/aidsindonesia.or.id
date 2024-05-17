@@ -1,0 +1,92 @@
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2023-10-23 00:00:49
+NOTICE: Do NOT post to public sites or forums 
+PACKAGE CREATION START
+********************************************************************************
+********************************************************************************
+VERSION:	4.5.13.1
+WORDPRESS:	6.3.2
+PHP INFO:	7.4.33 | SAPI: fpm-fcgi
+SERVER:		Apache/2.4.57 (Debian) 
+ARCHITECTURE:	64-bit 
+CLIENT KICKOFF: off 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 4294967296 (368M default) 
+RUN TYPE:	Schedule
+MEMORY STACK:	80MB
+ARCHIVE ENGINE: DupArchive
+PACKAGE COMPONENTS:
+	
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP + CHUNKING (query size limit - 131072 )
+
+TABLES: total: 26 | filtered:26 | create:0
+REWIND DATABASE ITERATOR
+REWIND DATABASE ITERATOR
+SQL FILE SIZE CHECK OK, SIZE: 607
+SQL CREATED: 20231023_000043_NewSchedule_informasiter_019a47fba20e1f366980_20231023000043_database.sql
+SQL FILE SIZE: 607B
+SQL FILE TIME: 2023-10-23 00:01:02
+SQL RUNTIME: 12.834 sec.
+MEMORY STACK: 24MB
+
+********************************************************************************
+ARCHIVE Type=DUP Mode=DupArchive
+********************************************************************************
+ARCHIVE DIR:  /home/1095496.cloudwaysapps.com/qdwxtebwsg/public_html
+ARCHIVE FILE: 20231023_000043_NewSchedule_informasiter_019a47fba20e1f366980_20231023000043_archive.daf
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	0B
+STATS:	Dirs 2 | Files 0 | Total 2
+CREATE ARCHIVE STATE FOR DUP ARCHIVE
+COMPRESSED SIZE: 2.31MB
+ARCHIVE RUNTIME: 10.192 sec.
+MEMORY STACK: 44MB
+CREATE WARNINGS: No warnings.
+VALIDATION WARNINGS: No warnings.
+
+********************************************************************************
+STORAGE:
+********************************************************************************
+AMAZON S3 COMPATIBLE: wasabi, /cdn-agpaiidigital.onlineDuplicator2023/aidsindonesia.or.id
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 607B
+INSTALLER FILE: 167.75KB
+ARCHIVE FILE: 2.31MB 
+EXPECTED FILE/DIRECTORY COUNT: 2
+ACTUAL FILE/DIRECTORY COUNT: 3
+
+********************************************************************************
+RECORD ID:[4]
+TOTAL PROCESS RUNTIME: 26.683 sec.
+PEAK PHP MEMORY USED: 2MB
+DONE PROCESSING => 20231023_000043_NewSchedule_informasiter 2023-10-23 00:01:15
+
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+** AMAZON S3 COMPATIBLE [Name: wasabi] [ID: 6] **
+Copyng to Storage wasabi[ID: 6] type:Amazon S3 Compatible
+FAIL: installer upload to S3.
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+STORAGE PROCESSING COMPLETED
+
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE CREATION OR MANUAL STORAGE TRANSFER END: 2023-10-23 00:01:20
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+********************************************************************************
+

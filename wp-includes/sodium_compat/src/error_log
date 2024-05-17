@@ -1,0 +1,4 @@
+[14-Mar-2024 04:41:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/ujianori/aidsindonesia.or.id/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/sodium_compat/src/File.php on line 9

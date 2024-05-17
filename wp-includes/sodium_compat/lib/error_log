@@ -1,0 +1,12 @@
+[14-Mar-2024 04:40:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/ujianori/aidsindonesia.or.id/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[20-Mar-2024 21:09:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/ujianori/aidsindonesia.or.id/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[27-Mar-2024 01:55:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/ujianori/aidsindonesia.or.id/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/sodium_compat/lib/ristretto255.php on line 6

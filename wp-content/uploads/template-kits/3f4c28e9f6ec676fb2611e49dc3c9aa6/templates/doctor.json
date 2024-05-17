@@ -1,0 +1,1438 @@
+{
+    "version": "0.4",
+    "title": "Doctor",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "6ba4b114",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "background_background": "classic",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/demo.moxcreative.com\/mediscare\/wp-content\/uploads\/sites\/51\/2021\/07\/bg_memphis_1.png",
+                    "id": 114
+                },
+                "background_overlay_position": "top right",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.299999999999999988897769753748434595763683319091796875,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "0",
+                    "bottom": "3",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=308e809"
+                }
+            },
+            "elements": [
+                {
+                    "id": "70ac42f6",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "background_color": ""
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "38c5f5e9",
+                            "settings": {
+                                "title": "Add Your Heading Text Here",
+                                "header_size": "h1",
+                                "__dynamic__": {
+                                    "title": "[elementor-tag id=\"fbdbde4\" name=\"post-title\" settings=\"%7B%7D\"]"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "d078384",
+                            "settings": {
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 550,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "7d099e6",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "border_border": "solid",
+                "border_width": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "1",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "border_color": "globals\/colors?id=308e809",
+                    "background_color": ""
+                },
+                "background_background": "classic",
+                "border_color": "#EDF1FC"
+            },
+            "elements": [
+                {
+                    "id": "44f80798",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "1d1a930f",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "Home",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "00e8e9d"
+                                    },
+                                    {
+                                        "text": "List Item #2",
+                                        "selected_icon": {
+                                            "value": "icon icon-chevron-right",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "064b2c2",
+                                        "__dynamic__": {
+                                            "text": "[elementor-tag id=\"c2f0d40\" name=\"post-title\" settings=\"%7B%7D\"]"
+                                        }
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "text_indent": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_typography_typography": "globals\/typography?id=69c152f"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "4893e2a8",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "structure": "20",
+                "background_background": "classic",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/demo.moxcreative.com\/mediscare\/wp-content\/uploads\/sites\/51\/2021\/07\/memphis_pic_2.png",
+                    "id": 401
+                },
+                "background_overlay_position": "center right",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.200000000000000011102230246251565404236316680908203125,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=a291686"
+                }
+            },
+            "elements": [
+                {
+                    "id": "24dd7d11",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "505e7d94",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/demo.moxcreative.com\/mediscare\/wp-content\/uploads\/sites\/51\/2021\/07\/Photo_1.png",
+                                    "id": 421
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "px",
+                                    "size": 550,
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "px",
+                                    "size": 350,
+                                    "sizes": []
+                                },
+                                "object-fit": "contain",
+                                "_background_background": "classic",
+                                "_background_position": "center center",
+                                "_background_repeat": "no-repeat",
+                                "_background_size": "cover",
+                                "_background_size_tablet": "cover"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5dac7926",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/demo.moxcreative.com\/mediscare\/wp-content\/uploads\/sites\/51\/2021\/07\/doctor-6-e1625182543837.jpg",
+                                    "id": 381
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "125",
+                                    "height": "125"
+                                },
+                                "motion_fx_motion_fx_scrolling": "yes",
+                                "motion_fx_translateY_effect": "yes",
+                                "motion_fx_translateY_direction": "negative",
+                                "motion_fx_translateY_affectedRange": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": {
+                                        "start": 56,
+                                        "end": 100
+                                    }
+                                },
+                                "_border_border": "solid",
+                                "_border_width": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                },
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "_box_shadow_box_shadow_type": "yes",
+                                "_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 10,
+                                    "blur": 20,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.05)"
+                                },
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": 37,
+                                    "unit": "px"
+                                },
+                                "_offset_x_tablet": {
+                                    "size": 77,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 54,
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": 48,
+                                    "unit": "px"
+                                },
+                                "hide_mobile": "hidden-phone",
+                                "__globals__": {
+                                    "_border_color": "globals\/colors?id=a291686"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7e084e6a",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/demo.moxcreative.com\/mediscare\/wp-content\/uploads\/sites\/51\/2021\/07\/african-american-male-doctor-in-white-coat-with-stethoscope-isolated-on-white-e1625182341218.jpg",
+                                    "id": 374
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "150",
+                                    "height": "150"
+                                },
+                                "motion_fx_motion_fx_scrolling": "yes",
+                                "motion_fx_translateY_effect": "yes",
+                                "motion_fx_translateY_affectedRange": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": {
+                                        "start": 57,
+                                        "end": 100
+                                    }
+                                },
+                                "_border_border": "solid",
+                                "_border_width": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                },
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "_box_shadow_box_shadow_type": "yes",
+                                "_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 10,
+                                    "blur": 20,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.05)"
+                                },
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": 405,
+                                    "unit": "px"
+                                },
+                                "_offset_x_tablet": {
+                                    "size": 486,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 300,
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": 327,
+                                    "unit": "px"
+                                },
+                                "hide_mobile": "hidden-phone",
+                                "__globals__": {
+                                    "_border_color": "globals\/colors?id=a291686"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "60472ac3",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "33f2503d",
+                            "settings": {
+                                "title": "About Leadership",
+                                "header_size": "h6"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4d9d07a9",
+                            "settings": {
+                                "title": "If you want to lift yourself up, lift up someone else."
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "35549a41",
+                            "settings": {
+                                "editor": "<p>Lectus himenaeos magnis pretium elementum litora odio diam. Sodales volutpat magnis blandit. Congue magna urna volutpat. Natoque laoreet maecenas orci placerat. Eleifend conubia odio dui quis tristique placerat. Netus etiam amet nostra est. Dolor hac purus ipsum dui.<\/p><p>Venenatis odio penatibus tempor accumsan viverra feugiat vivamus. Maximus vulputate montes hac quisque suscipit. Lacinia sodales neque porta suscipit. Et quisque lacinia libero si litora. Tempor libero porta placerat. Felis penatibus dolor natoque lacinia dui laoreet leo. Quam turpis himenaeos velit mauris.<\/p>"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "13094c11",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=308e809"
+                }
+            },
+            "elements": [
+                {
+                    "id": "7070a9b3",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "af1adcb",
+                            "settings": {
+                                "title": "Meet Doctor",
+                                "header_size": "h6",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "39858179",
+                            "settings": {
+                                "title": "Professional Doctors\n",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "41c2564d",
+                            "settings": {
+                                "_ob_bbad_inner_width": "100%",
+                                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                                "_ob_glider_nav_pos_x_next_alt": "0%",
+                                "structure": "40"
+                            },
+                            "elements": [
+                                {
+                                    "id": "4a007992",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2fcc4a1f",
+                                            "settings": {
+                                                "photo": {
+                                                    "url": "https:\/\/demo.moxcreative.com\/mediscare\/wp-content\/uploads\/sites\/51\/2021\/07\/smiling-mature-male-doctor-with-stethoscope-holding-laptop-isolated-on-white-e1625182645470.jpg",
+                                                    "id": 390
+                                                },
+                                                "name": "Dr. Paul Packard",
+                                                "role": "CEO ",
+                                                "description_text": "",
+                                                "social_link_list": [
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-facebook-f",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Facebook",
+                                                        "_id": "d44d8ec"
+                                                    },
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Twitter",
+                                                        "_id": "45f10ae"
+                                                    },
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Linkedin",
+                                                        "_id": "2e5f737"
+                                                    }
+                                                ],
+                                                "text_align": "center",
+                                                "photo_hover_animation": "up",
+                                                "role_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "social_icon_tooltip": "",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_box_shadow_box_shadow_type": "yes",
+                                                "_box_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.05)"
+                                                },
+                                                "_box_shadow_hover_box_shadow_type": "yes",
+                                                "_box_shadow_hover_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.1)"
+                                                },
+                                                "__globals__": {
+                                                    "photo_background": "globals\/colors?id=308e809",
+                                                    "name_typography_typography": "globals\/typography?id=7044a64",
+                                                    "role_typography_typography": "globals\/typography?id=69c152f"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "bdt-member",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "1ac748e9",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "53104a4d",
+                                            "settings": {
+                                                "photo": {
+                                                    "url": "https:\/\/demo.moxcreative.com\/mediscare\/wp-content\/uploads\/sites\/51\/2021\/07\/african-american-male-doctor-in-white-coat-with-stethoscope-isolated-on-white-e1625182341218.jpg",
+                                                    "id": 374
+                                                },
+                                                "name": "Dr. William Converse",
+                                                "role": "Cardiology",
+                                                "description_text": "",
+                                                "social_link_list": [
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-facebook-f",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Facebook",
+                                                        "_id": "d44d8ec"
+                                                    },
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Twitter",
+                                                        "_id": "45f10ae"
+                                                    },
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Linkedin",
+                                                        "_id": "2e5f737"
+                                                    }
+                                                ],
+                                                "text_align": "center",
+                                                "photo_hover_animation": "up",
+                                                "role_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "social_icon_tooltip": "",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_box_shadow_box_shadow_type": "yes",
+                                                "_box_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.05)"
+                                                },
+                                                "_box_shadow_hover_box_shadow_type": "yes",
+                                                "_box_shadow_hover_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.1)"
+                                                },
+                                                "__globals__": {
+                                                    "photo_background": "globals\/colors?id=308e809",
+                                                    "name_typography_typography": "globals\/typography?id=7044a64",
+                                                    "role_typography_typography": "globals\/typography?id=69c152f"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "bdt-member",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "31f0fdb1",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "46e1bf56",
+                                            "settings": {
+                                                "photo": {
+                                                    "url": "https:\/\/demo.moxcreative.com\/mediscare\/wp-content\/uploads\/sites\/51\/2021\/07\/doctor-6-e1625182543837.jpg",
+                                                    "id": 381
+                                                },
+                                                "name": "Dr. Raquel Linden",
+                                                "role": "Dermatologists",
+                                                "description_text": "",
+                                                "social_link_list": [
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-facebook-f",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Facebook",
+                                                        "_id": "d44d8ec"
+                                                    },
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Twitter",
+                                                        "_id": "45f10ae"
+                                                    },
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Linkedin",
+                                                        "_id": "2e5f737"
+                                                    }
+                                                ],
+                                                "text_align": "center",
+                                                "photo_hover_animation": "up",
+                                                "role_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "social_icon_tooltip": "",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_box_shadow_box_shadow_type": "yes",
+                                                "_box_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.05)"
+                                                },
+                                                "_box_shadow_hover_box_shadow_type": "yes",
+                                                "_box_shadow_hover_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.1)"
+                                                },
+                                                "__globals__": {
+                                                    "photo_background": "globals\/colors?id=308e809",
+                                                    "name_typography_typography": "globals\/typography?id=7044a64",
+                                                    "role_typography_typography": "globals\/typography?id=69c152f"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "bdt-member",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "45b281ae",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "acdee3e",
+                                            "settings": {
+                                                "photo": {
+                                                    "url": "https:\/\/demo.moxcreative.com\/mediscare\/wp-content\/uploads\/sites\/51\/2021\/07\/doctor-4-e1625182463251.jpg",
+                                                    "id": 379
+                                                },
+                                                "name": "Dr. Jorge Pennebaker",
+                                                "role": "Cardiology",
+                                                "description_text": "",
+                                                "social_link_list": [
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-facebook-f",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Facebook",
+                                                        "_id": "d44d8ec"
+                                                    },
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Twitter",
+                                                        "_id": "45f10ae"
+                                                    },
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Linkedin",
+                                                        "_id": "2e5f737"
+                                                    }
+                                                ],
+                                                "text_align": "center",
+                                                "photo_hover_animation": "up",
+                                                "role_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "social_icon_tooltip": "",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_box_shadow_box_shadow_type": "yes",
+                                                "_box_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.05)"
+                                                },
+                                                "_box_shadow_hover_box_shadow_type": "yes",
+                                                "_box_shadow_hover_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.1)"
+                                                },
+                                                "__globals__": {
+                                                    "photo_background": "globals\/colors?id=308e809",
+                                                    "name_typography_typography": "globals\/typography?id=7044a64",
+                                                    "role_typography_typography": "globals\/typography?id=69c152f"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "bdt-member",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "391e9085",
+                            "settings": {
+                                "_ob_bbad_inner_width": "100%",
+                                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                                "_ob_glider_nav_pos_x_next_alt": "0%",
+                                "structure": "40"
+                            },
+                            "elements": [
+                                {
+                                    "id": "4230db2f",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "e0bb301",
+                                            "settings": {
+                                                "photo": {
+                                                    "url": "https:\/\/demo.moxcreative.com\/mediscare\/wp-content\/uploads\/sites\/51\/2021\/07\/doctor-1-e1625182426840.jpg",
+                                                    "id": 376
+                                                },
+                                                "name": "Dr. Linda Abner",
+                                                "role": "Dermatologists",
+                                                "description_text": "",
+                                                "social_link_list": [
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-facebook-f",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Facebook",
+                                                        "_id": "d44d8ec"
+                                                    },
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Twitter",
+                                                        "_id": "45f10ae"
+                                                    },
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Linkedin",
+                                                        "_id": "2e5f737"
+                                                    }
+                                                ],
+                                                "text_align": "center",
+                                                "photo_hover_animation": "up",
+                                                "role_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "social_icon_tooltip": "",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_box_shadow_box_shadow_type": "yes",
+                                                "_box_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.05)"
+                                                },
+                                                "_box_shadow_hover_box_shadow_type": "yes",
+                                                "_box_shadow_hover_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.1)"
+                                                },
+                                                "__globals__": {
+                                                    "photo_background": "globals\/colors?id=308e809",
+                                                    "name_typography_typography": "globals\/typography?id=7044a64",
+                                                    "role_typography_typography": "globals\/typography?id=69c152f"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "bdt-member",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "58d57a18",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4f943d82",
+                                            "settings": {
+                                                "photo": {
+                                                    "url": "https:\/\/demo.moxcreative.com\/mediscare\/wp-content\/uploads\/sites\/51\/2021\/07\/doctor-5-e1625182504692.jpg",
+                                                    "id": 380
+                                                },
+                                                "name": "Dr. Glenn Tillman",
+                                                "role": "Cardiology",
+                                                "description_text": "",
+                                                "social_link_list": [
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-facebook-f",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Facebook",
+                                                        "_id": "d44d8ec"
+                                                    },
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Twitter",
+                                                        "_id": "45f10ae"
+                                                    },
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Linkedin",
+                                                        "_id": "2e5f737"
+                                                    }
+                                                ],
+                                                "text_align": "center",
+                                                "photo_hover_animation": "up",
+                                                "role_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "social_icon_tooltip": "",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_box_shadow_box_shadow_type": "yes",
+                                                "_box_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.05)"
+                                                },
+                                                "_box_shadow_hover_box_shadow_type": "yes",
+                                                "_box_shadow_hover_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.1)"
+                                                },
+                                                "__globals__": {
+                                                    "photo_background": "globals\/colors?id=308e809",
+                                                    "name_typography_typography": "globals\/typography?id=7044a64",
+                                                    "role_typography_typography": "globals\/typography?id=69c152f"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "bdt-member",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "7ac376c8",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "89c4ea3",
+                                            "settings": {
+                                                "photo": {
+                                                    "url": "https:\/\/demo.moxcreative.com\/mediscare\/wp-content\/uploads\/sites\/51\/2021\/07\/doctor-e1625182386574.jpg",
+                                                    "id": 375
+                                                },
+                                                "name": "Dr. Joseph Velazquez",
+                                                "role": "Dermatologists",
+                                                "description_text": "",
+                                                "social_link_list": [
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-facebook-f",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Facebook",
+                                                        "_id": "d44d8ec"
+                                                    },
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Twitter",
+                                                        "_id": "45f10ae"
+                                                    },
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Linkedin",
+                                                        "_id": "2e5f737"
+                                                    }
+                                                ],
+                                                "text_align": "center",
+                                                "photo_hover_animation": "up",
+                                                "role_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "social_icon_tooltip": "",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_box_shadow_box_shadow_type": "yes",
+                                                "_box_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.05)"
+                                                },
+                                                "_box_shadow_hover_box_shadow_type": "yes",
+                                                "_box_shadow_hover_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.1)"
+                                                },
+                                                "__globals__": {
+                                                    "photo_background": "globals\/colors?id=308e809",
+                                                    "name_typography_typography": "globals\/typography?id=7044a64",
+                                                    "role_typography_typography": "globals\/typography?id=69c152f"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "bdt-member",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "3a76b818",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "f25b99e",
+                                            "settings": {
+                                                "photo": {
+                                                    "url": "https:\/\/demo.moxcreative.com\/mediscare\/wp-content\/uploads\/sites\/51\/2021\/07\/cheerful-surgeon--e1625182600910.jpg",
+                                                    "id": 388
+                                                },
+                                                "name": "Dr. Jorge Pennebaker",
+                                                "role": "Cardiology",
+                                                "description_text": "",
+                                                "social_link_list": [
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-facebook-f",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Facebook",
+                                                        "_id": "d44d8ec"
+                                                    },
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Twitter",
+                                                        "_id": "45f10ae"
+                                                    },
+                                                    {
+                                                        "social_link": "#",
+                                                        "social_share_icon": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link_title": "Linkedin",
+                                                        "_id": "2e5f737"
+                                                    }
+                                                ],
+                                                "text_align": "center",
+                                                "photo_hover_animation": "up",
+                                                "role_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "social_icon_tooltip": "",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_box_shadow_box_shadow_type": "yes",
+                                                "_box_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.05)"
+                                                },
+                                                "_box_shadow_hover_box_shadow_type": "yes",
+                                                "_box_shadow_hover_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.1)"
+                                                },
+                                                "__globals__": {
+                                                    "photo_background": "globals\/colors?id=308e809",
+                                                    "name_typography_typography": "globals\/typography?id=7044a64",
+                                                    "role_typography_typography": "globals\/typography?id=69c152f"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "bdt-member",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "327e72d6",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 840,
+                    "sizes": []
+                },
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "background_background": "classic",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/demo.moxcreative.com\/mediscare\/wp-content\/uploads\/sites\/51\/2021\/07\/memphis_pic_1.png",
+                    "id": 314
+                },
+                "background_overlay_position": "top center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "contain",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=a291686"
+                }
+            },
+            "elements": [
+                {
+                    "id": "6fe6ab3a",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "46d9cc8f",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "icon icon-medicine-1",
+                                    "library": "ekiticons"
+                                },
+                                "__globals__": {
+                                    "primary_color": "globals\/colors?id=a185853"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "70464ca6",
+                            "settings": {
+                                "title": "You want to join our team?",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "262097d",
+                            "settings": {
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3499c074",
+                            "settings": {
+                                "text": "Contact Us",
+                                "align": "center",
+                                "size": "md"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_header_footer"
+    }
+}

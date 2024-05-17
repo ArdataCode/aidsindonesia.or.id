@@ -1,0 +1,172 @@
+[14-Mar-2024 04:09:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-grid-posts.php on line 9
+[14-Mar-2024 04:09:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[14-Mar-2024 04:09:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-medium-posts.php on line 9
+[14-Mar-2024 04:09:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-offset-posts.php on line 9
+[14-Mar-2024 04:09:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-small-posts.php on line 9
+[14-Mar-2024 04:10:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-standard-posts.php on line 9
+[14-Mar-2024 04:10:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[20-Mar-2024 21:09:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-grid-posts.php on line 9
+[20-Mar-2024 21:09:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[20-Mar-2024 21:09:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-medium-posts.php on line 9
+[20-Mar-2024 21:09:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-offset-posts.php on line 9
+[20-Mar-2024 21:09:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-small-posts.php on line 9
+[20-Mar-2024 21:09:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-standard-posts.php on line 9
+[20-Mar-2024 21:09:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[25-Mar-2024 07:11:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-grid-posts.php on line 9
+[25-Mar-2024 07:11:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-grid-posts.php on line 9
+[25-Mar-2024 07:11:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-medium-posts.php on line 9
+[25-Mar-2024 07:11:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-medium-posts.php on line 9
+[25-Mar-2024 07:11:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-offset-posts.php on line 9
+[25-Mar-2024 07:11:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-offset-posts.php on line 9
+[25-Mar-2024 07:11:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-small-posts.php on line 9
+[25-Mar-2024 07:11:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-small-posts.php on line 9
+[27-Mar-2024 01:55:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-grid-posts.php on line 9
+[27-Mar-2024 01:55:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[27-Mar-2024 01:55:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-medium-posts.php on line 9
+[27-Mar-2024 01:55:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-offset-posts.php on line 9
+[27-Mar-2024 01:55:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-small-posts.php on line 9
+[27-Mar-2024 01:55:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-standard-posts.php on line 9
+[27-Mar-2024 01:55:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[20-Apr-2024 02:58:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-grid-posts.php on line 9
+[20-Apr-2024 02:58:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-grid-posts.php on line 9
+[20-Apr-2024 02:58:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[20-Apr-2024 02:58:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[20-Apr-2024 02:58:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-medium-posts.php on line 9
+[20-Apr-2024 02:58:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-medium-posts.php on line 9
+[20-Apr-2024 02:58:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-offset-posts.php on line 9
+[20-Apr-2024 02:58:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-offset-posts.php on line 9
+[20-Apr-2024 02:58:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-small-posts.php on line 9
+[20-Apr-2024 02:58:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-small-posts.php on line 9
+[20-Apr-2024 02:59:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-standard-posts.php on line 9
+[20-Apr-2024 02:59:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/query-standard-posts.php on line 9
+[20-Apr-2024 02:59:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[20-Apr-2024 02:59:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/block-patterns/social-links-shared-background-color.php on line 9

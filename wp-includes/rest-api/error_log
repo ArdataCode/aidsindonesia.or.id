@@ -1,0 +1,12 @@
+[14-Mar-2024 04:30:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/ujianori/aidsindonesia.or.id/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[20-Mar-2024 21:08:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/ujianori/aidsindonesia.or.id/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[27-Mar-2024 01:53:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/ujianori/aidsindonesia.or.id/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/rest-api/class-wp-rest-response.php on line 17

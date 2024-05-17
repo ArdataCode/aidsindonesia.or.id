@@ -1,0 +1,4 @@
+[14-Mar-2024 03:58:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/ujianori/aidsindonesia.or.id/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/aidsindonesia.or.id/wp-includes/Requests/src/Hooks.php on line 19
